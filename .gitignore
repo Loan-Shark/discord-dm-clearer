@@ -1,0 +1,6 @@
+node_modules/*
+qrCode.png
+temp
+!node_modules/qrcode-terminal
+node_modules/qrcode-terminal/*
+!node_modules/qrcode-terminal/lib/
